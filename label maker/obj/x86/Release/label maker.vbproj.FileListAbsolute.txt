@@ -1,0 +1,50 @@
+C:\Users\brianzimm\documents\visual studio 2010\Projects\label maker\label maker\bin\Release\label maker.exe
+C:\Users\brianzimm\documents\visual studio 2010\Projects\label maker\label maker\bin\Release\label maker.pdb
+C:\Users\brianzimm\documents\visual studio 2010\Projects\label maker\label maker\bin\Release\label maker.xml
+C:\Users\brianzimm\documents\visual studio 2010\Projects\label maker\label maker\obj\x86\Release\label maker.exe
+C:\Users\brianzimm\documents\visual studio 2010\Projects\label maker\label maker\obj\x86\Release\label maker.xml
+C:\Users\brianzimm\documents\visual studio 2010\Projects\label maker\label maker\obj\x86\Release\label maker.pdb
+C:\Users\brianzimm\documents\visual studio 2010\Projects\label maker\label maker\bin\Release\label maker.exe.config
+C:\Users\brianzimm\documents\visual studio 2010\Projects\label maker\label maker\obj\x86\Release\labelmaker.Form1.resources
+C:\Users\brianzimm\documents\visual studio 2010\Projects\label maker\label maker\obj\x86\Release\labelmaker.Resources.resources
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker\label maker\obj\x86\Release\labelmaker.SplashScreen1.resources
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker\label maker\obj\x86\Release\label maker.vbprojResolveAssemblyReference.cache
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker\label maker\obj\x86\Release\label maker.vbproj.GenerateResource.Cache
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\bin\Release\label maker.exe.config
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\obj\x86\Release\label maker.exe
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\obj\x86\Release\label maker.xml
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\obj\x86\Release\label maker.pdb
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\bin\Release\label maker.exe
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\bin\Release\label maker.pdb
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\bin\Release\label maker.xml
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\obj\x86\Release\label maker.vbprojResolveAssemblyReference.cache
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\obj\x86\Release\labelmaker.Form1.resources
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\obj\x86\Release\labelmaker.Resources.resources
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\obj\x86\Release\labelmaker.SplashScreen1.resources
+C:\Users\brianzimm\Documents\Visual Studio 2010\Projects\label maker - offline\label maker\obj\x86\Release\label maker.vbproj.GenerateResource.Cache
+F:\label maker - source code\label maker\bin\Release\label maker.exe.config
+F:\label maker - source code\label maker\obj\x86\Release\label maker.exe
+F:\label maker - source code\label maker\obj\x86\Release\label maker.xml
+F:\label maker - source code\label maker\obj\x86\Release\label maker.pdb
+F:\label maker - source code\label maker\bin\Release\label maker.exe
+F:\label maker - source code\label maker\bin\Release\label maker.pdb
+F:\label maker - source code\label maker\bin\Release\label maker.xml
+F:\label maker - source code\label maker\bin\Release\itextsharp.dll
+F:\label maker - source code\label maker\obj\x86\Release\labelmaker.Form1.resources
+F:\label maker - source code\label maker\obj\x86\Release\labelmaker.Resources.resources
+F:\label maker - source code\label maker\obj\x86\Release\labelmaker.SplashScreen1.resources
+F:\label maker - source code\label maker\obj\x86\Release\label maker.vbproj.GenerateResource.Cache
+F:\label maker - source code\label maker\bin\Release\label maker.exe.CodeAnalysisLog.xml
+F:\label maker - source code\label maker\bin\Release\label maker.exe.lastcodeanalysissucceeded
+Z:\media\docs\code\label maker - source code\label maker\bin\Release\label maker.exe.config
+Z:\media\docs\code\label maker - source code\label maker\obj\x86\Release\label maker.exe
+Z:\media\docs\code\label maker - source code\label maker\obj\x86\Release\label maker.xml
+Z:\media\docs\code\label maker - source code\label maker\obj\x86\Release\label maker.pdb
+Z:\media\docs\code\label maker - source code\label maker\bin\Release\label maker.exe
+Z:\media\docs\code\label maker - source code\label maker\bin\Release\label maker.pdb
+Z:\media\docs\code\label maker - source code\label maker\bin\Release\label maker.xml
+Z:\media\docs\code\label maker - source code\label maker\bin\Release\itextsharp.dll
+Z:\media\docs\code\label maker - source code\label maker\obj\x86\Release\labelmaker.Form1.resources
+Z:\media\docs\code\label maker - source code\label maker\obj\x86\Release\labelmaker.Resources.resources
+Z:\media\docs\code\label maker - source code\label maker\obj\x86\Release\labelmaker.SplashScreen1.resources
+Z:\media\docs\code\label maker - source code\label maker\obj\x86\Release\label maker.vbproj.GenerateResource.Cache

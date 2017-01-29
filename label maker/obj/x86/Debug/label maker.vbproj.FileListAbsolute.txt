@@ -1,0 +1,14 @@
+F:\label maker - source code\label maker\bin\Debug\label maker.exe.config
+F:\label maker - source code\label maker\bin\Debug\label maker.exe
+F:\label maker - source code\label maker\bin\Debug\label maker.pdb
+F:\label maker - source code\label maker\bin\Debug\label maker.xml
+F:\label maker - source code\label maker\bin\Debug\itextsharp.dll
+F:\label maker - source code\label maker\obj\x86\Debug\labelmaker.Form1.resources
+F:\label maker - source code\label maker\obj\x86\Debug\labelmaker.Resources.resources
+F:\label maker - source code\label maker\obj\x86\Debug\labelmaker.SplashScreen1.resources
+F:\label maker - source code\label maker\obj\x86\Debug\label maker.vbproj.GenerateResource.Cache
+F:\label maker - source code\label maker\obj\x86\Debug\label maker.exe
+F:\label maker - source code\label maker\obj\x86\Debug\label maker.xml
+F:\label maker - source code\label maker\obj\x86\Debug\label maker.pdb
+F:\label maker - source code\label maker\bin\Debug\label maker.exe.CodeAnalysisLog.xml
+F:\label maker - source code\label maker\bin\Debug\label maker.exe.lastcodeanalysissucceeded
